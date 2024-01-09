@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Argüello</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 👨‍💻 All of my projects are available at [https://porfolio-goarguello97.vercel.app/](https://porfolio-goarguello97.vercel.app/)
+- 👨‍💻 All of my projects are available at [[https://porfolio-goarguello97.vercel.app/](https://www.gonzaloarguello.ar/)
 
 - 📫 How to reach me **arguellogonzalo97@gmail.com**
 
