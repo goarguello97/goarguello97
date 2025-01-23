@@ -126,6 +126,14 @@
       height="40"
     />
   </a>
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
+      alt="angular"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -158,4 +166,22 @@
       height="40"
     />
   </a>
+  <a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+      alt="java"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
+      alt="spring"
+      width="40"
+      height="40"
+    />
+  </a>
+
+  
 </p>
