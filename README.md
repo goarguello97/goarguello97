@@ -1,187 +1,89 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Argüello</h1>
-<h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.gonzaloarguello.ar/](https://www.gonzaloarguello.ar/)
-
-- 📫 How to reach me **arguellogonzalo97@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gonzalo-argüello/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalo-argüello/" height="30" width="40" /></a>
+<p align="center">
+  <b>Full stack developer from Argentina</b> · Advanced Software Engineering student
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg"
-      alt="jasmine"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
- 
-  
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
-      alt="angular"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com/es/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
-      alt="spring"
-      width="40"
-      height="40"
-    />
-  </a>
-
-  
+<p align="center">
+  <i>La herramienta correcta, no la más compleja.</i><br />
+  The right tool, not the most complex one.
 </p>
+
+<p align="center">
+  <a href="https://porfoliov3-pi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-porfoliov3--pi.vercel.app-E2672A?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/gonzalo-arg%C3%BCello/"><img src="https://img.shields.io/badge/LinkedIn-gonzalo--arg%C3%BCello-1C3D52?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:arguellogonzalo97@gmail.com"><img src="https://img.shields.io/badge/Email-arguellogonzalo97%40gmail.com-6FA8D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+### About me
+
+- 🛠️ I build web products end to end: the interface, the server, the database and the integrations that connect them.
+- 🧭 I start from the problem, then pick the tool. Sometimes that's a full stack app with a database; sometimes a well-built Google Sheet does the job for a fraction of the cost.
+- 💼 I currently work as a web developer and designer at a company in the sustainability sector, where I also build solutions for its clients.
+- 🎓 Advanced Software Engineering student.
+- 📫 Open to new projects: **arguellogonzalo97@gmail.com**
+
+### Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://willypesca.vercel.app"><img src="https://raw.githubusercontent.com/goarguello97/porfoliov3/main/app/public/assets/projects/willy-pesca.jpg" alt="Willy Pesca y Camping on a laptop and a phone" /></a>
+      <h4>Willy Pesca y Camping</h4>
+      Website for a fishing store in Calamuchita, Córdoba: a catalog of reels and rods with technical specs, a price comparator, and repair requests sent through WhatsApp. The store manages its products from its own admin panel (Google login, up to 8 photos per product).
+      <br /><br />
+      <code>React 19</code> <code>TanStack Start</code> <code>Supabase</code> <code>Tailwind CSS</code>
+      <br /><br />
+      <a href="https://willypesca.vercel.app">Live site</a> · <a href="https://github.com/goarguello97/willy-pesca-v2">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://entremigaslc-app.vercel.app"><img src="https://raw.githubusercontent.com/goarguello97/porfoliov3/main/app/public/assets/projects/entre-migas.jpg" alt="Entre Migas ordering app on a laptop and a phone" /></a>
+      <h4>Entre Migas</h4>
+      Mobile-first ordering app for a sandwich shop: customers build their order and send it to the shop's WhatsApp, already formatted. No backend: the menu, prices and availability are edited from a Google Sheet.
+      <br /><br />
+      <code>React 19</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Google Sheets</code>
+      <br /><br />
+      <a href="https://entremigaslc-app.vercel.app">Live site</a> · <a href="https://github.com/goarguello97/entremigaslc-app">Code</a>
+    </td>
+  </tr>
+</table>
+
+More, including client work I can't name, is on my **[portfolio](https://porfoliov3-pi.vercel.app/)**, each project told through the decisions behind it. The site itself is open source: [porfoliov3](https://github.com/goarguello97/porfoliov3).
+
+### Tech stack
+
+**Languages**<br />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,java" alt="HTML, CSS, JavaScript, TypeScript, Java" />
+
+**Frontend & mobile**<br />
+<img src="https://skillicons.dev/icons?i=react,angular,redux,tailwind,bootstrap,vite" alt="React, Angular, Redux, Tailwind CSS, Bootstrap, Vite" /><br />
+<sub>Also React Native for mobile.</sub>
+
+**Backend**<br />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,bun" alt="Node.js, Express, Spring Boot, Bun" />
+
+**Databases**<br />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase" alt="PostgreSQL, MongoDB, Supabase" />
+
+**Tools & deploy**<br />
+<img src="https://skillicons.dev/icons?i=git,docker,linux,vercel" alt="Git, Docker, Linux, Vercel" /><br />
+<sub>Testing with Jasmine.</sub>
+
+### Agentic development
+
+<p>
+  <a href="https://claude.com/product/claude-code"><img src="https://img.shields.io/badge/Claude_Code-1C3D52?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" /></a>
+  <a href="https://opencode.ai"><img src="https://img.shields.io/badge/OpenCode-1C3D52?style=for-the-badge&logo=gnubash&logoColor=white" alt="OpenCode" /></a>
+  <a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/MCP-1C3D52?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" /></a>
+  <a href="https://docs.claude.com/en/docs/claude-code/skills"><img src="https://img.shields.io/badge/Agent_Skills-1C3D52?style=for-the-badge&logo=anthropic&logoColor=white" alt="Agent Skills" /></a>
+</p>
+
+I build with coding agents like Claude Code and OpenCode, and I keep the decisions: agents draft and implement, I review, test and ship.
+
+- 🧠 **Context engineering:** each project's rules, decisions and deploy steps live in `CLAUDE.md` / `AGENTS.md`, so any agent or teammate can pick up where the last one left off.
+- 📐 **Spec first:** user stories become Gherkin acceptance criteria (Given / When / Then) and ASCII wireframes before any code is written.
+- 🧩 **Skills and subagents:** repeatable workflows packaged as agent skills and specialized subagents, for things like specs, design reviews and frontend builds.
+- 🔌 **MCP servers:** agents connected to browsers, docs and external tools through the Model Context Protocol.
+- ✅ **Verification loop:** every agent change goes through builds, tests, local previews and screenshots before it's pushed.
